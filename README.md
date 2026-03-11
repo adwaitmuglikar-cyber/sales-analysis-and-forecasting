@@ -101,37 +101,8 @@ pip install -r requirements.txt
 - Navigate to the notebooks/ folder.
 - Start with the sample dataset provided in data/sample_sales_data.csv.
 
-5. **View outputs**
-- Generated charts (e.g., monthly_sales.png, prophet_forecast.png) will be saved in the outputs/ folder.
-- ## 📊 Outputs
 
-Here are some of the key charts generated from the sample sales dataset.  
-All files are saved in the `outputs/` folder.
-
-### 1. Monthly Sales Trend
-![Monthly Sales](outputs/monthly_sales_(1).png)
-
-### 2. Top 10 Products by Sales
-![Top Products](outputs/top_products_(1).png)
-
-### 3. Top 10 Cities by Sales
-![Top Cities](outputs/top_cities_(1).png)
-
-### 4. Sales by Hour of Day
-![Sales by Hour](outputs/sales_by_hour_(1).png)
-
-### 5. Top 10 Products by Quantity Sold
-![Top Products Quantity](outputs/top_products_quantity_(1).png)
-
-### 6. Cumulative Sales Over Time
-![Cumulative Sales](outputs/cumulative_sales_(1).png)
-
-### 7. Price vs Quantity Scatter
-![Price vs Quantity](outputs/price_vs_quantity_(1).png)
-
-- Power BI dashboard screenshots are available in the assets/ folder.
-
-6. **Reproduce results**
+5. **Reproduce results**
 - Explore the notebooks for EDA, Forecasting (ARIMA, Prophet, XGBoost), and Visualization.
 - View generated charts in the outputs/ folder.
 - Power BI dashboards are included in the assets/ section as screenshots.
@@ -147,4 +118,5 @@ Pull requests and suggestions are welcome. For major changes, please open an iss
 👨‍💻 **Author:** Rohan Thube  
 📧 Email: thuberaj@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rohan-thube-423403239/)  
+
 
