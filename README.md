@@ -115,8 +115,9 @@ Pull requests and suggestions are welcome. For major changes, please open an iss
 
 ---
 
-👨‍💻 **Author:** Rohan Thube  
-📧 Email: thuberaj@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rohan-thube-423403239/)  
+👨‍💻 **Author:** Advait Muglikar
+📧 Email: adwaitmuglikar@gmail.com  
+🔗 [LinkedIn]_https://www.linkedin.com/in/advait-muglikar/
+
 
 
