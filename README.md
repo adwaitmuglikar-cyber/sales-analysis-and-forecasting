@@ -109,7 +109,7 @@ Here are some of the key charts generated from the sample sales dataset.
 All files are saved in the `outputs/` folder.
 
 ### 1. Monthly Sales Trend
-![Monthly Sales](outputs/monthly_sales.png)
+![Monthly Sales]("C:\Users\adwai\Downloads\monthly_sales.png")
 
 ### 2. Top 10 Products by Sales
 ![Top Products](outputs/top_products.png)
